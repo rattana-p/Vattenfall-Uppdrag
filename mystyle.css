@@ -1,0 +1,49 @@
+* {     box-sizing: border-box;
+        margin: 0;
+        padding: 0; }
+
+body {  font-family: 'Open Sans', sans-serif;}
+
+
+.block {
+    display: inline-block;
+    letter-spacing: 0.0925em; 
+}
+
+.block-content-orange  {
+    line-height: 1.5em;
+    background-color: #ef8626;
+    color: black;
+    height: 300px;
+    padding: 0 25px 0 15px;
+    letter-spacing: 0.0925em; 
+}
+
+.block-content-blue {
+    line-height: 1.5em;
+    background-color: #122037;
+    color: white;
+    height: 300px;
+    padding: 0 25px 0 15px;
+    letter-spacing: 0.0925em; 
+}
+
+
+h3 { padding: -50px 0 0 0; }
+i  { padding: 20px 0 0 15px; }
+
+.round { 
+    margin: .4em 1em;
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+    padding: .5em 4em
+}
+
+
+
+
+
+
+
+
